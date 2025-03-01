@@ -74,7 +74,7 @@ export default function Navbar() {
                     src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
                     alt="Your Company"
                   /> */}
-                  <h2 className='h-8 w-auto text-white text-2xl '>Eros hervilla</h2>
+                  <h2 className='h-8 w-auto text-white text-2xl '>Eros Hervilla</h2>
                 </div>
                 <div className="hidden sm:ml-6 sm:block relative">
 
